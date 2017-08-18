@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "hoplite_webgl.data.unityweb",
+"asmCodeUrl": "hoplite_webgl.asm.code.unityweb",
+"asmMemoryUrl": "hoplite_webgl.asm.memory.unityweb",
+"asmFrameworkUrl": "hoplite_webgl.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
